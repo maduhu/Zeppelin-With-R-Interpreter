@@ -34,7 +34,7 @@
   <url>http://zeppelin.incubator.apache.org</url>
 
   <properties>
-    <flink.version>0.9.0-milestone-1</flink.version>
+    <flink.version>1.9.2</flink.version>
     <flink.akka.version>2.3.7</flink.akka.version>
     <flink.scala.binary.version>2.10</flink.scala.binary.version>
     <flink.scala.version>2.10.4</flink.scala.version>

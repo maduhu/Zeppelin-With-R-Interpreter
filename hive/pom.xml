@@ -34,7 +34,7 @@
 
   <properties>
     <hive.hive.version>0.14.0</hive.hive.version>
-    <hive.hadoop.version>2.6.0</hive.hadoop.version>
+    <hive.hadoop.version>2.10.1</hive.hadoop.version>
   </properties>
   <dependencies>
     <dependency>

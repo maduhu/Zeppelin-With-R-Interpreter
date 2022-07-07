@@ -33,7 +33,7 @@
   <url>http://www.nflabs.com</url>
 
   <properties>
-    <cxf.version>2.7.7</cxf.version>
+    <cxf.version>2.7.8</cxf.version>
     <jetty.version>8.1.14.v20131031</jetty.version>
     <commons.httpclient.version>4.3.6</commons.httpclient.version>
   </properties>
